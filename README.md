@@ -13,4 +13,6 @@
 
 ## How to Run
 javac Problem-1.java
+
+
 java Problem-1
