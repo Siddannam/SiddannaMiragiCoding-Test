@@ -61,7 +61,7 @@ public class Calculator {
                     System.out.println("Invalid operation. Please try again.");
             }
 
-            System.out.println(); // Blank line for readability
+            System.out.println(); 
         }
     }
 }
